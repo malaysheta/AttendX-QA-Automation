@@ -12,3 +12,7 @@ End-to-end UI tests for the AttendX student attendance web app, written with Pla
 npm install
 npx playwright test
 ```
+
+### Test data
+- Faculty user: `faculty07`
+- Class used: CE-5A, Subject: Software Testing
